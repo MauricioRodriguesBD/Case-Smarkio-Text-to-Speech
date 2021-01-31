@@ -1,0 +1,23 @@
+{
+  "name": "node_js_mauricio",
+  "version": "1.0.0",
+  "description": "case",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "ibm-watson": "^6.0.2",
+    "jquery": "^3.5.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.22.3",
+    "watson-developer-cloud": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Cesar Szpak",
+  "license": "ISC"
+}
